@@ -1,0 +1,9 @@
+{
+  "AwsCdkAuthStack": {
+    "UserPoolClientId": "5hpp46eqlblack5kcrif4nvc7b",
+    "AppSyncApiKey": "da2-u67qvx2rifblrmljyxunrgnxqy",
+    "UserPoolId": "eu-central-1_DVT7mqknW",
+    "GraphQLAPIURL": "https://vfzbijlnovcoreqzkymqdlsr74.appsync-api.eu-central-1.amazonaws.com/graphql",
+    "ProjectRegion": "eu-central-1"
+  }
+}
